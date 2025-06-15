@@ -26,7 +26,7 @@ def create_document(input_data):
 def insert_documents(collection):
     while True:
         input_data = input()
-        if input_data.lower() == 'e':
+        if input_data.lower() == 'q':
             break
 
         doc = create_document(input_data)
