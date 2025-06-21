@@ -25,7 +25,7 @@ def insert_documents(collection):
     inputs = []
     while True:
         input_data = input()
-        if input_data.lower() == 'e':
+        if input_data.lower() == 'q':
             break
         elif input_data.lower() == 'i':
             if inputs:
