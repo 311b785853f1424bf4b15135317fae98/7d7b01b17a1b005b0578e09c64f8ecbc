@@ -1,0 +1,15 @@
+{
+    "20cb5d34ac69b68129afb4dc759e743a": "Encrypt all records in a MongoDB collection."
+    "17357c3e62d3034c0390c2f066704265": "Export encrypted records from a MongoDB collection in plain text, decrypted."
+    "496170bc6a094449ec75dcbbc33806af": "Insert multiple inputs in a MongoDB collection and encrypt the inputs."
+    "66978d76b20b066cd2fe73e4e974614c": "Insert multiple inputs in a MongoDB collection."
+    "0b9cbb75adbc292c30348754a67b9c22": "Insert a single input in a MongoDB collection and encrypt the input."
+    "f7da10d664fc227de19a99e93a66206b": "Insert a single input in a MongoDB collection."
+    "601205f6d3659ce4e11de980e397b40e": "Search input in a MongoDB collection."
+    "7fd13e2ac3d40c8d4fc5be1c4c68fc50": "Search input in an encrypted MongoDB collection."
+    "6674ac2a67b0045001b26d4d3d0f99a4": "Compare two text files and return the differences between the two files."
+    "5fa0e343413c1268740fe48a8a527285": "Count the duplicate lines from a text file."
+    "17b5f9aef7b48430d9fd4b6062686864": "Rename the files in subdirectories for the current directory."
+    "880414c1c4a29214ba6f66180eb99eaf": "Sort the lines and remove the duplicate lines from a text file."
+    "ea5d5bd040c4f780acfa33eb2c791eed": "Transcribe an audio file using the Whisper API."
+}
