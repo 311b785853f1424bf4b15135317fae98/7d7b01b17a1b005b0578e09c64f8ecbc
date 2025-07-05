@@ -1,3 +1,7 @@
+"""
+Scans all files in the current directory, calculates their hashes, and lists duplicate images based on identical content.
+"""
+
 import os
 import hashlib
 
