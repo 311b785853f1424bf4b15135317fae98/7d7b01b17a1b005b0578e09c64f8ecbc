@@ -17,5 +17,5 @@ for filename in os.listdir('.'):
         else:
             hashes[filehash] = filename
 
-for dup in sorted(duplicates):
-    print(dup)
+for duplicate in sorted(duplicates):
+    print(duplicate)
